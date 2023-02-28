@@ -1,2 +1,2 @@
 # oop-fii
-Seminare POO Fii
+Seminare POO Fii - Chiriac Matei grupa A3
