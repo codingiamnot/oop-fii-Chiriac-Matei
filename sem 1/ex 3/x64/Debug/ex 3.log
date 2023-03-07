@@ -1,0 +1,4 @@
+﻿  ex 3.cpp
+C:\facultate\oop\sem 1\ex 3\ex 3.cpp(12,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\facultate\oop\sem 1\ex 3\ex 3.cpp(13,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ex 3.vcxproj -> C:\facultate\oop\sem 1\ex 3\x64\Debug\ex 3.exe
